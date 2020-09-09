@@ -1,0 +1,3905 @@
+# depslib dependency file v1.0
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dBase/dError.cxx
+	"dError.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dBase/dError.h
+	"../Open-Mandible_dMyLib.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/Open-Mandible_dMyLib.h
+	<stdlib.h>
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<algorithm>
+
+1588351845 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dGeom/dGeom_Element.cxx
+	"dGeom_Element.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dGeom/dGeom_Element.h
+	"../Open-Mandible_dMyLib.h"
+
+1591221096 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dGeom/dGeom_Functions.cxx
+	"dGeom_Functions.h"
+
+1591221096 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dGeom/dGeom_Functions.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dMisc/dSTL_Triangle.h"
+	"dGeom_Node.h"
+	"dGeom_Element.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dBase/dCollection.h
+	"../Open-Mandible_dMyLib.h"
+	<vector>
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dBase/dConstants.h
+	"../Open-Mandible_dMyLib.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dGeom/dGeom_Node.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dConstants.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dGeom/dGeom_Node.cxx
+	"dGeom_Node.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dGeom/dGeom_Plane.cxx
+	"dGeom_Plane.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dGeom/dGeom_Plane.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dCollection.h"
+	"dGeom_Node.h"
+	"dGeom_Functions.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dInit/dInit_Node.cxx
+	"dInit_Node.h"
+
+1591459981 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dInit/dInit_Node.h
+	"../dMesh/dMesh_Node.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMesh/dMesh_Node.h
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMesh/dMesh_Boundary_and_Loads.cxx
+	"dMesh_Boundary_and_Loads.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMesh/dMesh_Boundary_and_Loads.h
+	"../dBase/dCollection.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMesh/dMesh_Neighbours.cxx
+	"dMesh_Neighbours.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMesh/dMesh_Neighbours.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dGeom/dGeom_Element.h"
+	"../dGeom/dGeom_Functions.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+
+1574440825 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMisc/dMisc_Functionz.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dConstants.h"
+	<sstream>
+	<cstdlib>
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMesh/dMesh_Node.cxx
+	"dMesh_Node.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMesh/dMeshing.cxx
+	"dMeshing.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMesh/dMeshing.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dConstants.h"
+	"../dBase/dCollection.h"
+	"../dGeom/dGeom_Element.h"
+	"../dGeom/dGeom_Functions.h"
+	"../dGeom/dGeom_TFunctions.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dMisc/dPercent.h"
+	"../dPrin/dInfo.h"
+	"dMesh_Neighbours.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dGeom/dGeom_TFunctions.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPrin/dInfo.h"
+	"dGeom_Node.h"
+	"dGeom_Element.h"
+	"dGeom_Functions.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dPrin/dInfo.h
+	"../Open-Mandible_dMyLib.h"
+	<time.h>
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMisc/dPercent.h
+	"../Open-Mandible_dMyLib.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMisc/dDirectory_Miner.cxx
+	"dDirectory_Miner.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMisc/dDirectory_Miner.h
+	<sys/types.h>
+	<dirent.h>
+	<vector>
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+
+1568109439 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMisc/dMisc_Functionz.cxx
+	"dMisc_Functionz.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMisc/dPercent.cxx
+	"dPercent.h"
+	"dPercent.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMisc/dRandom_Number_Generator.cxx
+	"dRandom_Number_Generator.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMisc/dRandom_Number_Generator.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dConstants.h"
+	<time.h>
+	<sstream>
+	<cstdlib>
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMisc/dSTL_Triangle.cxx
+	"dSTL_Triangle.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMisc/dSTL_Triangle.h
+	"../Open-Mandible_dMyLib.h"
+	"../dGeom/dGeom_Node.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMisc/dTimer.cxx
+	"dTimer.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMisc/dTimer.h
+	"../Open-Mandible_dMyLib.h"
+	<time.h>
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dPost/dPost_Node.cxx
+	"dPost_Node.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dPost/dPost_Node.h
+	"../dGeom/dGeom_Node.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dPrin/dInfo.cxx
+	"dInfo.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dPrin/dPOS_Printer.cxx
+	"dPOS_Printer.h"
+
+1585991530 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dPrin/dPOS_Printer.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dSuperCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMesh/dMeshing.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPost/dPost_Node.h"
+	"../dInit/dInit_Node.h"
+	<fstream>
+	"dInfo.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dBase/dSuperCollection.h
+	"../Open-Mandible_dMyLib.h"
+	"dCollection.h"
+	<algorithm>
+	<vector>
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dPrin/dPrinting.cxx
+	"dPrinting.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dPrin/dPrinting.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dGeom/dGeom_Functions.h"
+	"../dMisc/dMisc_Functionz.h"
+	<fstream>
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dPrin/dWRL_Printer.cxx
+	"dWRL_Printer.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dPrin/dWRL_Printer.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dMisc/dSTL_Triangle.h"
+	<fstream>
+	"dInfo.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dRead/dFAL_Reader.cxx
+	"dFAL_Reader.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dRead/dFAL_Reader.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPrin/dInfo.h"
+	"dReading.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dRead/dReading.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dError.h"
+	"../dBase/dConstants.h"
+	"../dMisc/dMisc_Functionz.h"
+	<fstream>
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dRead/dFemap_Reader.cxx
+	"dFemap_Reader.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dRead/dFemap_Reader.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPrin/dInfo.h"
+	"dReading.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dRead/dReading.cxx
+	"dReading.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dRead/dSTL_Reader.cxx
+	"dSTL_Reader.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dRead/dSTL_Reader.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dError.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dGeom/dGeom_Functions.h"
+	"../dMisc/dSTL_Triangle.h"
+	"dReading.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dRead/dTetgen_Reader.cxx
+	"dTetgen_Reader.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dRead/dTetgen_Reader.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dError.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dMisc/dPercent.h"
+	"../dPrin/dInfo.h"
+	"dReading.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dRead/dUNV_Reader.cxx
+	"dUNV_Reader.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dRead/dUNV_Reader.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dError.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dPost/dPost_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPrin/dInfo.h"
+	"dReading.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_multimaterial/dmultimaterial_parameters.cxx
+	"dmultimaterial_parameters.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_multimaterial/dmultimaterial_parameters.h
+	"../Open-Mandible_dMyLib/Open-Mandible_dMyLib.h"
+	"../Open-Mandible_dMyLib/dBase/dConstants.h"
+	"../Open-Mandible_dMyLib/dPrin/dInfo.h"
+	"../Open-Mandible_dMyLib/dRead/dReading.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_openR/dopenR_functions.cxx
+	"dopenR_functions.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_openR/dopenR_functions.h
+	"../Open-Mandible_dMyLib/Open-Mandible_dMyLib.h"
+	"../Open-Mandible_dMyLib/dBase/dCollection.h"
+	"../Open-Mandible_dMyLib/dBase/dConstants.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Node.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Plane.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Element.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Functions.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../Open-Mandible_dMyLib/dMesh/dMesh_Node.h"
+	"../Open-Mandible_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../Open-Mandible_dMyLib/dInit/dInit_Node.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_openR/dopenR_parameters.cxx
+	"dopenR_parameters.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_openR/dopenR_parameters.h
+	"../Open-Mandible_dMyLib/Open-Mandible_dMyLib.h"
+	"../Open-Mandible_dMyLib/dBase/dConstants.h"
+	"../Open-Mandible_dMyLib/dPrin/dInfo.h"
+	"../Open-Mandible_dMyLib/dRead/dReading.h"
+
+1590675163 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_openR/dopenRf.cxx
+	"dopenR.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_openR/dopenR.h
+	"../Open-Mandible_dMyLib/Open-Mandible_dMyLib.h"
+	"../Open-Mandible_dMyLib/dBase/dCollection.h"
+	"../Open-Mandible_dMyLib/dBase/dConstants.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Node.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Plane.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Element.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Functions.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../Open-Mandible_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../Open-Mandible_dMyLib/dMesh/dTMeshing.h"
+	"../Open-Mandible_dMyLib/dMesh/dMesh_Node.h"
+	"../Open-Mandible_dMyLib/dInit/dInit_Node.h"
+	"../Open-Mandible_dMyLib/dMisc/dTimer.h"
+	"../Open-Mandible_dMyLib/dMisc/dMisc_Functionz.h"
+	"../Open-Mandible_dMyLib/dPrin/dPrinting.h"
+	"../Open-Mandible_dMyLib/dPrin/dPOS_Printer.h"
+	"../Open-Mandible_dMyLib/dPrin/dSLI_Printer.h"
+	"../Open-Mandible_dMyLib/dPrin/dInfo.h"
+	"../Open-Mandible_dMyLib/dRead/dSLI_Reader.h"
+	"../Open-Mandible_dMyLib/dRead/dSTL_Reader.h"
+	"../Open-Mandible_dMyLib/dRead/dFAL_Reader.h"
+	"dopenR_functions.h"
+	"dopenR_parameters.h"
+	"dopenRf.h"
+
+1590279428 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dMesh/dTMeshing.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dConstants.h"
+	"../dBase/dCollection.h"
+	"../dGeom/dGeom_Element.h"
+	"../dGeom/dGeom_Functions.h"
+	"../dGeom/dGeom_TFunctions.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dMisc/dPercent.h"
+	"../dPrin/dInfo.h"
+	"dMesh_Neighbours.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dPrin/dSLI_Printer.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dInit/dInit_Node.h"
+	"../dMesh/dMeshing.h"
+	"../dMesh/dMesh_Node.h"
+	"dInfo.h"
+	<fstream>
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dRead/dSLI_Reader.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dInit/dInit_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPrin/dInfo.h"
+	"dReading.h"
+
+1590675162 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_openR/dopenRf.h
+	"../Open-Mandible_dMyLib/Open-Mandible_dMyLib.h"
+	"../Open-Mandible_dMyLib/dBase/dCollection.h"
+	"../Open-Mandible_dMyLib/dBase/dConstants.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Node.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Plane.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Element.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Functions.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../Open-Mandible_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../Open-Mandible_dMyLib/dMesh/dTMeshing.h"
+	"../Open-Mandible_dMyLib/dMesh/dMesh_Node.h"
+	"../Open-Mandible_dMyLib/dInit/dInit_Node.h"
+	"../Open-Mandible_dMyLib/dMisc/dTimer.h"
+	"../Open-Mandible_dMyLib/dMisc/dMisc_Functionz.h"
+	"../Open-Mandible_dMyLib/dPrin/dPrinting.h"
+	"../Open-Mandible_dMyLib/dPrin/dPOS_Printer.h"
+	"../Open-Mandible_dMyLib/dPrin/dSLI_Printer.h"
+	"../Open-Mandible_dMyLib/dPrin/dInfo.h"
+	"../Open-Mandible_dMyLib/dRead/dSLI_Reader.h"
+	"../Open-Mandible_dMyLib/dRead/dSTL_Reader.h"
+	"../Open-Mandible_dMyLib/dRead/dFAL_Reader.h"
+	"dopenR_functions.h"
+	"dopenR_parameters.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_remesh/dFema/dremesh4Femap.cxx
+	"dremesh4Femap.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_remesh/dFema/dremesh4Femap.h
+	"../../Open-Mandible_dMyLib/Open-Mandible_dMyLib.h"
+	"../../Open-Mandible_dMyLib/dBase/dCollection.h"
+	"../../Open-Mandible_dMyLib/dBase/dConstants.h"
+	"../../Open-Mandible_dMyLib/dGeom/dGeom_Element.h"
+	"../../Open-Mandible_dMyLib/dGeom/dGeom_Functions.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMeshing.h"
+	"../../Open-Mandible_dMyLib/dMesh/dTMeshing.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMesh_Node.h"
+	"../../Open-Mandible_dMyLib/dMisc/dTimer.h"
+	"../../Open-Mandible_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../Open-Mandible_dMyLib/dPrin/dPrinting.h"
+	"../../Open-Mandible_dMyLib/dPrin/dPOS_Printer.h"
+	"../../Open-Mandible_dMyLib/dPrin/dSLI_Printer.h"
+	"../../Open-Mandible_dMyLib/dPrin/dInfo.h"
+	"../../Open-Mandible_dMyLib/dRead/dFemap_Reader.h"
+	"dremesh4FemapF.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_remesh/dFema/dremesh4FemapF.h
+	"../../Open-Mandible_dMyLib/Open-Mandible_dMyLib.h"
+	"../../Open-Mandible_dMyLib/dBase/dCollection.h"
+	"../../Open-Mandible_dMyLib/dBase/dConstants.h"
+	"../../Open-Mandible_dMyLib/dGeom/dGeom_Element.h"
+	"../../Open-Mandible_dMyLib/dGeom/dGeom_Functions.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMeshing.h"
+	"../../Open-Mandible_dMyLib/dMesh/dTMeshing.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMesh_Node.h"
+	"../../Open-Mandible_dMyLib/dMisc/dTimer.h"
+	"../../Open-Mandible_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../Open-Mandible_dMyLib/dPrin/dPrinting.h"
+	"../../Open-Mandible_dMyLib/dPrin/dPOS_Printer.h"
+	"../../Open-Mandible_dMyLib/dPrin/dSLI_Printer.h"
+	"../../Open-Mandible_dMyLib/dPrin/dInfo.h"
+	"../../Open-Mandible_dMyLib/dRead/dFemap_Reader.h"
+	"dremesh4FemapF.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_remesh/dFema/dremesh4FemapF.cxx
+	"dremesh4FemapF.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_remesh/dremesh_parameters.cxx
+	"dremesh_parameters.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_remesh/dremesh_parameters.h
+	"../Open-Mandible_dMyLib/Open-Mandible_dMyLib.h"
+	"../Open-Mandible_dMyLib/dBase/dConstants.h"
+	"../Open-Mandible_dMyLib/dPrin/dInfo.h"
+	"../Open-Mandible_dMyLib/dRead/dReading.h"
+
+1590315401 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_remesh/dremeshF.cxx
+	"dremeshF.h"
+
+1590314519 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_remesh/dremeshF.h
+	"../Open-Mandible_dMyLib/dPrin/dInfo.h"
+	"../Open-Mandible_dMyLib/dMisc/dMisc_Functionz.h"
+	"dFema/dremesh4Femap.h"
+	"dTetg/dremesh4Tetgen.h"
+	"dTetg_tetra/dremesh4Tetgen_tetra.h"
+	"dTetg/dremesh4TetgenF.h"
+	"dTetg_tetra/dremesh4Tetgen_tetraF.h"
+	"dremesh_parameters.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_remesh/dTetg/dremesh4Tetgen.h
+	"../../Open-Mandible_dMyLib/Open-Mandible_dMyLib.h"
+	"../../Open-Mandible_dMyLib/dBase/dCollection.h"
+	"../../Open-Mandible_dMyLib/dBase/dConstants.h"
+	"../../Open-Mandible_dMyLib/dGeom/dGeom_Element.h"
+	"../../Open-Mandible_dMyLib/dGeom/dGeom_Functions.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMeshing.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMesh_Node.h"
+	"../../Open-Mandible_dMyLib/dMisc/dTimer.h"
+	"../../Open-Mandible_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../Open-Mandible_dMyLib/dPrin/dPrinting.h"
+	"../../Open-Mandible_dMyLib/dPrin/dPOS_Printer.h"
+	"../../Open-Mandible_dMyLib/dPrin/dSLI_Printer.h"
+	"../../Open-Mandible_dMyLib/dPrin/dInfo.h"
+	"../../Open-Mandible_dMyLib/dRead/dTetgen_Reader.h"
+	"dremesh4TetgenF.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_remesh/dTetg/dremesh4TetgenF.h
+	"../../Open-Mandible_dMyLib/Open-Mandible_dMyLib.h"
+	"../../Open-Mandible_dMyLib/dBase/dCollection.h"
+	"../../Open-Mandible_dMyLib/dBase/dConstants.h"
+	"../../Open-Mandible_dMyLib/dGeom/dGeom_Element.h"
+	"../../Open-Mandible_dMyLib/dGeom/dGeom_Functions.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMeshing.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMesh_Node.h"
+	"../../Open-Mandible_dMyLib/dMisc/dTimer.h"
+	"../../Open-Mandible_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../Open-Mandible_dMyLib/dPrin/dPrinting.h"
+	"../../Open-Mandible_dMyLib/dPrin/dPOS_Printer.h"
+	"../../Open-Mandible_dMyLib/dPrin/dSLI_Printer.h"
+	"../../Open-Mandible_dMyLib/dPrin/dInfo.h"
+	"../../Open-Mandible_dMyLib/dRead/dTetgen_Reader.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_remesh/dTetg_tetra/dremesh4Tetgen_tetra.h
+	"../../Open-Mandible_dMyLib/Open-Mandible_dMyLib.h"
+	"../../Open-Mandible_dMyLib/dBase/dCollection.h"
+	"../../Open-Mandible_dMyLib/dBase/dConstants.h"
+	"../../Open-Mandible_dMyLib/dGeom/dGeom_Element.h"
+	"../../Open-Mandible_dMyLib/dGeom/dGeom_Functions.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMeshing.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMesh_Node.h"
+	"../../Open-Mandible_dMyLib/dMisc/dTimer.h"
+	"../../Open-Mandible_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../Open-Mandible_dMyLib/dPrin/dPrinting.h"
+	"../../Open-Mandible_dMyLib/dPrin/dPOS_Printer.h"
+	"../../Open-Mandible_dMyLib/dPrin/dSLI_Printer.h"
+	"../../Open-Mandible_dMyLib/dPrin/dInfo.h"
+	"../../Open-Mandible_dMyLib/dRead/dTetgen_Reader.h"
+	"dremesh4Tetgen_tetraF.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_remesh/dTetg_tetra/dremesh4Tetgen_tetraF.h
+	"../../Open-Mandible_dMyLib/Open-Mandible_dMyLib.h"
+	"../../Open-Mandible_dMyLib/dBase/dCollection.h"
+	"../../Open-Mandible_dMyLib/dBase/dConstants.h"
+	"../../Open-Mandible_dMyLib/dGeom/dGeom_Element.h"
+	"../../Open-Mandible_dMyLib/dGeom/dGeom_Functions.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMeshing.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../Open-Mandible_dMyLib/dMesh/dMesh_Node.h"
+	"../../Open-Mandible_dMyLib/dMisc/dTimer.h"
+	"../../Open-Mandible_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../Open-Mandible_dMyLib/dPrin/dPrinting.h"
+	"../../Open-Mandible_dMyLib/dPrin/dPOS_Printer.h"
+	"../../Open-Mandible_dMyLib/dPrin/dSLI_Printer.h"
+	"../../Open-Mandible_dMyLib/dPrin/dInfo.h"
+	"../../Open-Mandible_dMyLib/dRead/dTetgen_Reader.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_remesh/dTetg/dremesh4Tetgen.cxx
+	"dremesh4Tetgen.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_remesh/dTetg/dremesh4TetgenF.cxx
+	"dremesh4TetgenF.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_remesh/dTetg_tetra/dremesh4Tetgen_tetra.cxx
+	"dremesh4Tetgen_tetra.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_remesh/dTetg_tetra/dremesh4Tetgen_tetraF.cxx
+	"dremesh4Tetgen_tetraF.h"
+
+1590882611 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dPrin/dSLI_Printer.cxx
+	"dSLI_Printer.h"
+
+1590320676 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dPrin/dVTK_Printer.cxx
+	"dVTK_Printer.h"
+
+1588622598 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dPrin/dVTK_Printer.h
+	"../Open-Mandible_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dSuperCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMesh/dMeshing.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPost/dPost_Node.h"
+	"../dInit/dInit_Node.h"
+	<fstream>
+	"dInfo.h"
+
+1587901563 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_dMyLib/dRead/dSLI_Reader.cxx
+	"dSLI_Reader.h"
+
+1591185543 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_multimaterial/dmultimaterial_functions.cxx
+	"dmultimaterial_functions.h"
+
+1591184595 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_multimaterial/dmultimaterial_functions.h
+	"../Open-Mandible_dMyLib/Open-Mandible_dMyLib.h"
+	"../Open-Mandible_dMyLib/dBase/dCollection.h"
+	"../Open-Mandible_dMyLib/dBase/dSuperCollection.h"
+	"../Open-Mandible_dMyLib/dBase/dConstants.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Node.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Plane.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Element.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Functions.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../Open-Mandible_dMyLib/dMesh/dMesh_Node.h"
+	"../Open-Mandible_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../Open-Mandible_dMyLib/dInit/dInit_Node.h"
+
+1591185590 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_multimaterial/dmultimaterialF.cxx
+	"dmultimaterialF.h"
+
+1591184595 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/Open-Mandible_multimaterial/dmultimaterialF.h
+	"../Open-Mandible_dMyLib/Open-Mandible_dMyLib.h"
+	"../Open-Mandible_dMyLib/dBase/dCollection.h"
+	"../Open-Mandible_dMyLib/dBase/dConstants.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Node.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Plane.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Element.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Functions.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../Open-Mandible_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../Open-Mandible_dMyLib/dMesh/dTMeshing.h"
+	"../Open-Mandible_dMyLib/dMesh/dMesh_Node.h"
+	"../Open-Mandible_dMyLib/dInit/dInit_Node.h"
+	"../Open-Mandible_dMyLib/dMisc/dTimer.h"
+	"../Open-Mandible_dMyLib/dMisc/dMisc_Functionz.h"
+	"../Open-Mandible_dMyLib/dPrin/dPrinting.h"
+	"../Open-Mandible_dMyLib/dPrin/dPOS_Printer.h"
+	"../Open-Mandible_dMyLib/dPrin/dVTK_Printer.h"
+	"../Open-Mandible_dMyLib/dPrin/dSLI_Printer.h"
+	"../Open-Mandible_dMyLib/dPrin/dInfo.h"
+	"../Open-Mandible_dMyLib/dRead/dSLI_Reader.h"
+	"dmultimaterial_functions.h"
+	"dmultimaterial_parameters.h"
+	<string>
+
+1591626751 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/open_mandible/open_mandible.cxx
+	"open_mandible.h"
+
+1591626766 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/open_mandible/open_mandible.h
+	"../Open-Mandible_dMyLib/Open-Mandible_dMyLib.h"
+	"../Open-Mandible_dMyLib/dBase/dCollection.h"
+	"../Open-Mandible_dMyLib/dBase/dConstants.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Node.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Plane.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Element.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Functions.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../Open-Mandible_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../Open-Mandible_dMyLib/dMesh/dTMeshing.h"
+	"../Open-Mandible_dMyLib/dMesh/dMesh_Node.h"
+	"../Open-Mandible_dMyLib/dInit/dInit_Node.h"
+	"../Open-Mandible_dMyLib/dInit/dInit_Node.h"
+	"../Open-Mandible_dMyLib/dMisc/dTimer.h"
+	"../Open-Mandible_dMyLib/dMisc/dMisc_Functionz.h"
+	"../Open-Mandible_dMyLib/dPrin/dPrinting.h"
+	"../Open-Mandible_dMyLib/dPrin/dPOS_Printer.h"
+	"../Open-Mandible_dMyLib/dPrin/dVTK_Printer.h"
+	"../Open-Mandible_dMyLib/dPrin/dSLI_Printer.h"
+	"../Open-Mandible_dMyLib/dPrin/dInfo.h"
+	"../Open-Mandible_dMyLib/dMisc/dDirectory_Miner.h"
+	"../Open-Mandible_dMyLib/dRead/dSLI_Reader.h"
+	"../Open-Mandible_dMyLib/dRead/dSTL_Reader.h"
+	"../Open-Mandible_dMyLib/dRead/dFAL_Reader.h"
+	"../Open-Mandible_remesh/dremesh_parameters.h"
+	"../Open-Mandible_remesh/dremeshF.h"
+	"../Open-Mandible_openR/dopenRf.h"
+	"../Open-Mandible_multimaterial/dmultimaterialF.h"
+	"../Open-Mandible_multimaterial/dmultimaterial_functions.h"
+	"open_mandible_parameters.h"
+	"case5-mandible_plain_text_print_functions.h"
+	"open_mandible_functions.h"
+	"aModule/aDataFile_Reader.h"
+	"aModule/aDataPoint.h"
+
+1591626457 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/open_mandible/open_mandible_parameters.cxx
+	"open_mandible_parameters.h"
+
+1591626457 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/open_mandible/open_mandible_parameters.h
+	"../Open-Mandible_dMyLib/Open-Mandible_dMyLib.h"
+	"../Open-Mandible_dMyLib/dBase/dConstants.h"
+	"../Open-Mandible_dMyLib/dBase/dCollection.h"
+	"../Open-Mandible_dMyLib/dPrin/dInfo.h"
+	"../Open-Mandible_dMyLib/dRead/dReading.h"
+
+1591626457 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/open_mandible/case5-mandible_plain_text_print_functions.cxx
+	"case5-mandible_plain_text_print_functions.h"
+
+1591626457 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/open_mandible/case5-mandible_plain_text_print_functions.h
+	"../Open-Mandible_dMyLib/Open-Mandible_dMyLib.h"
+	"../Open-Mandible_dMyLib/dBase/dCollection.h"
+	"../Open-Mandible_dMyLib/dBase/dConstants.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Node.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Plane.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Element.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Functions.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../Open-Mandible_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../Open-Mandible_dMyLib/dMesh/dTMeshing.h"
+	"../Open-Mandible_dMyLib/dMesh/dMesh_Node.h"
+	"../Open-Mandible_dMyLib/dInit/dInit_Node.h"
+	"../Open-Mandible_dMyLib/dMisc/dTimer.h"
+	"../Open-Mandible_dMyLib/dMisc/dMisc_Functionz.h"
+	"../Open-Mandible_dMyLib/dPrin/dPrinting.h"
+	"../Open-Mandible_dMyLib/dPrin/dPOS_Printer.h"
+	"../Open-Mandible_dMyLib/dPrin/dVTK_Printer.h"
+	"../Open-Mandible_dMyLib/dPrin/dSLI_Printer.h"
+	"../Open-Mandible_dMyLib/dPrin/dInfo.h"
+	"aModule/aDataPoint.h"
+
+1591460444 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/open_mandible/aDataPoint.cxx
+	"aDataPoint.h"
+
+1591460407 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/open_mandible/aDataPoint.h
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Node.h"
+
+1591558445 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/open_mandible/aModule/aDataPoint.cxx
+	"aDataPoint.h"
+
+1591555538 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/open_mandible/aModule/aDataPoint.h
+	"../../Open-Mandible_dMyLib/dGeom/dGeom_Node.h"
+
+1591555573 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/open_mandible/aModule/aDataFile_Reader.cxx
+	"aDataFile_Reader.h"
+
+1591467171 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/open_mandible/aModule/aDataFile_Reader.h
+	"../../Open-Mandible_dMyLib/Open-Mandible_dMyLib.h"
+	"../../Open-Mandible_dMyLib/dBase/dCollection.h"
+	"../../Open-Mandible_dMyLib/dGeom/dGeom_Node.h"
+	"../../Open-Mandible_dMyLib/dPrin/dInfo.h"
+	"../../Open-Mandible_dMyLib/dRead/dReading.h"
+	"aDataPoint.h"
+
+1591626457 /media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/open_mandible/open_mandible_functions.h
+	"../Open-Mandible_dMyLib/dBase/dConstants.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Node.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Plane.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Element.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_Functions.h"
+	"../Open-Mandible_dMyLib/dGeom/dGeom_TFunctions.h"
+
+1591626457 source:/media/ntfs/shtek/danko-data/github/Open-Mandible-master-vilica-tk3/open_mandible/open_mandible_functions.cxx
+	"open_mandible_functions.h"
+
+1591629029 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/open_mandible/aModule/aDataFile_Reader.cxx
+	"aDataFile_Reader.h"
+
+1591629029 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/open_mandible/aModule/aDataFile_Reader.h
+	"../../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz_dMyLib/dRead/dReading.h"
+	"aDataPoint.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h
+	<stdlib.h>
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<algorithm>
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dBase/dCollection.h
+	"../dfemtoolz_dMyLib.h"
+	<vector>
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dGeom/dGeom_Node.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dConstants.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dBase/dConstants.h
+	"../dfemtoolz_dMyLib.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dPrin/dInfo.h
+	"../dfemtoolz_dMyLib.h"
+	<time.h>
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dRead/dReading.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dError.h"
+	"../dBase/dConstants.h"
+	"../dMisc/dMisc_Functionz.h"
+	<fstream>
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dBase/dError.h
+	"../dfemtoolz_dMyLib.h"
+
+1574440825 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dConstants.h"
+	<sstream>
+	<cstdlib>
+
+1591629029 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/open_mandible/aModule/aDataPoint.h
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+
+1591629029 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/open_mandible/aModule/aDataPoint.cxx
+	"aDataPoint.h"
+
+1592612498 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/open_mandible/case5-mandible_plain_text_print_functions.cxx
+	"case5-mandible_plain_text_print_functions.h"
+
+1592611263 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/open_mandible/case5-mandible_plain_text_print_functions.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"aModule/aDataPoint.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"dGeom_Node.h"
+	"dGeom_Functions.h"
+
+1592231316 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dMisc/dSTL_Triangle.h"
+	"dGeom_Node.h"
+	"dGeom_Element.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMisc/dSTL_Triangle.h
+	"../dfemtoolz_dMyLib.h"
+	"../dGeom/dGeom_Node.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dGeom/dGeom_Element.h
+	"../dfemtoolz_dMyLib.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPrin/dInfo.h"
+	"dGeom_Node.h"
+	"dGeom_Element.h"
+	"dGeom_Functions.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dGeom/dGeom_Element.h"
+	"../dGeom/dGeom_Functions.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMesh/dMesh_Node.h
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+
+1592411177 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMesh/dTMeshing.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dConstants.h"
+	"../dBase/dCollection.h"
+	"../dGeom/dGeom_Element.h"
+	"../dGeom/dGeom_Functions.h"
+	"../dGeom/dGeom_TFunctions.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dMisc/dPercent.h"
+	"../dPrin/dInfo.h"
+	"dMesh_Neighbours.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMisc/dPercent.h
+	"../dfemtoolz_dMyLib.h"
+
+1591459981 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dInit/dInit_Node.h
+	"../dMesh/dMesh_Node.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMisc/dTimer.h
+	"../dfemtoolz_dMyLib.h"
+	<time.h>
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dPrin/dPrinting.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dGeom/dGeom_Functions.h"
+	"../dMisc/dMisc_Functionz.h"
+	<fstream>
+
+1585991530 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dSuperCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMesh/dMeshing.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPost/dPost_Node.h"
+	"../dInit/dInit_Node.h"
+	<fstream>
+	"dInfo.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dBase/dSuperCollection.h
+	"../dfemtoolz_dMyLib.h"
+	"dCollection.h"
+	<algorithm>
+	<vector>
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMesh/dMeshing.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dConstants.h"
+	"../dBase/dCollection.h"
+	"../dGeom/dGeom_Element.h"
+	"../dGeom/dGeom_Functions.h"
+	"../dGeom/dGeom_TFunctions.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dMisc/dPercent.h"
+	"../dPrin/dInfo.h"
+	"dMesh_Neighbours.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dPost/dPost_Node.h
+	"../dGeom/dGeom_Node.h"
+
+1588622598 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dSuperCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMesh/dMeshing.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPost/dPost_Node.h"
+	"../dInit/dInit_Node.h"
+	<fstream>
+	"dInfo.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dInit/dInit_Node.h"
+	"../dMesh/dMeshing.h"
+	"../dMesh/dMesh_Node.h"
+	"dInfo.h"
+	<fstream>
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dBase/dError.cxx
+	"dError.h"
+
+1588351845 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dGeom/dGeom_Element.cxx
+	"dGeom_Element.h"
+
+1592231476 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dGeom/dGeom_Functions.cxx
+	"dGeom_Functions.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dGeom/dGeom_Node.cxx
+	"dGeom_Node.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dGeom/dGeom_Plane.cxx
+	"dGeom_Plane.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dInit/dInit_Node.cxx
+	"dInit_Node.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.cxx
+	"dMesh_Boundary_and_Loads.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h
+	"../dBase/dCollection.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.cxx
+	"dMesh_Neighbours.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMesh/dMesh_Node.cxx
+	"dMesh_Node.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMesh/dMeshing.cxx
+	"dMeshing.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.cxx
+	"dDirectory_Miner.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h
+	<sys/types.h>
+	<dirent.h>
+	<vector>
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+
+1568109439 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.cxx
+	"dMisc_Functionz.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMisc/dPercent.cxx
+	"dPercent.h"
+	"dPercent.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMisc/dRandom_Number_Generator.cxx
+	"dRandom_Number_Generator.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMisc/dRandom_Number_Generator.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dConstants.h"
+	<time.h>
+	<sstream>
+	<cstdlib>
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMisc/dSTL_Triangle.cxx
+	"dSTL_Triangle.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dMisc/dTimer.cxx
+	"dTimer.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dPost/dPost_Node.cxx
+	"dPost_Node.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dPrin/dInfo.cxx
+	"dInfo.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dPrin/dPOS_Printer.cxx
+	"dPOS_Printer.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dPrin/dPrinting.cxx
+	"dPrinting.h"
+
+1590882611 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dPrin/dSLI_Printer.cxx
+	"dSLI_Printer.h"
+
+1590320676 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dPrin/dVTK_Printer.cxx
+	"dVTK_Printer.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dPrin/dWRL_Printer.cxx
+	"dWRL_Printer.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dPrin/dWRL_Printer.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dMisc/dSTL_Triangle.h"
+	<fstream>
+	"dInfo.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dRead/dFAL_Reader.cxx
+	"dFAL_Reader.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dRead/dFAL_Reader.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPrin/dInfo.h"
+	"dReading.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dRead/dFemap_Reader.cxx
+	"dFemap_Reader.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dRead/dFemap_Reader.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPrin/dInfo.h"
+	"dReading.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dRead/dReading.cxx
+	"dReading.h"
+
+1587901563 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dRead/dSLI_Reader.cxx
+	"dSLI_Reader.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dRead/dSLI_Reader.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dInit/dInit_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPrin/dInfo.h"
+	"dReading.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dRead/dSTL_Reader.cxx
+	"dSTL_Reader.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dRead/dSTL_Reader.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dError.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dGeom/dGeom_Functions.h"
+	"../dMisc/dSTL_Triangle.h"
+	"dReading.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dRead/dTetgen_Reader.cxx
+	"dTetgen_Reader.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dRead/dTetgen_Reader.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dError.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dMisc/dPercent.h"
+	"../dPrin/dInfo.h"
+	"dReading.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dRead/dUNV_Reader.cxx
+	"dUNV_Reader.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_dMyLib/dRead/dUNV_Reader.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dError.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dPost/dPost_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPrin/dInfo.h"
+	"dReading.h"
+
+1592645082 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/open_mandible/open_mandible.cxx
+	"open_mandible.h"
+
+1592645578 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/open_mandible/open_mandible.h
+	<math.h>
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h"
+	"../dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"../dfemtoolz_remesh/dremesh_parameters.h"
+	"../dfemtoolz_remesh/dremeshF.h"
+	"../dfemtoolz_openR/dopenRf.h"
+	"../dfemtoolz_multimaterial/dmultimaterialF.h"
+	"../dfemtoolz_multimaterial/dmultimaterial_functions.h"
+	"open_mandible_parameters.h"
+	"case5-mandible_plain_text_print_functions.h"
+	"open_mandible_functions.h"
+	"open_mandible_classes.h"
+	"aModule/aDataFile_Reader.h"
+	"aModule/aDataPoint.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_remesh/dremesh_parameters.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dRead/dReading.h"
+
+1590314519 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_remesh/dremeshF.h
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"dFema/dremesh4Femap.h"
+	"dTetg/dremesh4Tetgen.h"
+	"dTetg_tetra/dremesh4Tetgen_tetra.h"
+	"dTetg/dremesh4TetgenF.h"
+	"dTetg_tetra/dremesh4Tetgen_tetraF.h"
+	"dremesh_parameters.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_remesh/dFema/dremesh4Femap.h
+	"../../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz_dMyLib/dRead/dFemap_Reader.h"
+	"dremesh4FemapF.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_remesh/dFema/dremesh4FemapF.h
+	"../../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz_dMyLib/dRead/dFemap_Reader.h"
+	"dremesh4FemapF.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_remesh/dTetg/dremesh4Tetgen.h
+	"../../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz_dMyLib/dRead/dTetgen_Reader.h"
+	"dremesh4TetgenF.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_remesh/dTetg/dremesh4TetgenF.h
+	"../../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz_dMyLib/dRead/dTetgen_Reader.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_remesh/dTetg_tetra/dremesh4Tetgen_tetra.h
+	"../../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz_dMyLib/dRead/dTetgen_Reader.h"
+	"dremesh4Tetgen_tetraF.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_remesh/dTetg_tetra/dremesh4Tetgen_tetraF.h
+	"../../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz_dMyLib/dRead/dTetgen_Reader.h"
+
+1590675162 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_openR/dopenRf.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"dopenR_functions.h"
+	"dopenR_parameters.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_openR/dopenR_functions.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz_dMyLib/dInit/dInit_Node.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_openR/dopenR_parameters.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dRead/dReading.h"
+
+1591704228 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_multimaterial/dmultimaterialF.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"dmultimaterial_functions.h"
+	"dmultimaterial_parameters.h"
+	<string>
+
+1591651536 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_multimaterial/dmultimaterial_functions.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz_dMyLib/dBase/dSuperCollection.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz_dMyLib/dInit/dInit_Node.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_multimaterial/dmultimaterial_parameters.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dRead/dReading.h"
+
+1592602723 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/open_mandible/open_mandible_parameters.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dRead/dReading.h"
+
+1592645578 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/open_mandible/open_mandible_functions.h
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"open_mandible_classes.h"
+
+1592645471 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/open_mandible/open_mandible_functions.cxx
+	"open_mandible_functions.h"
+
+1592602723 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/open_mandible/open_mandible_parameters.cxx
+	"open_mandible_parameters.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_remesh/dFema/dremesh4Femap.cxx
+	"dremesh4Femap.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_remesh/dFema/dremesh4FemapF.cxx
+	"dremesh4FemapF.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_remesh/dremesh_parameters.cxx
+	"dremesh_parameters.h"
+
+1590315401 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_remesh/dremeshF.cxx
+	"dremeshF.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_remesh/dTetg/dremesh4Tetgen.cxx
+	"dremesh4Tetgen.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_remesh/dTetg/dremesh4TetgenF.cxx
+	"dremesh4TetgenF.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_remesh/dTetg_tetra/dremesh4Tetgen_tetra.cxx
+	"dremesh4Tetgen_tetra.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_remesh/dTetg_tetra/dremesh4Tetgen_tetraF.cxx
+	"dremesh4Tetgen_tetraF.h"
+
+1591651705 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_multimaterial/dmultimaterial_functions.cxx
+	"dmultimaterial_functions.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_multimaterial/dmultimaterial_parameters.cxx
+	"dmultimaterial_parameters.h"
+
+1591706271 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_multimaterial/dmultimaterialF.cxx
+	"dmultimaterialF.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_openR/dopenR_functions.cxx
+	"dopenR_functions.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_openR/dopenR_parameters.cxx
+	"dopenR_parameters.h"
+
+1590675163 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_openR/dopenRf.cxx
+	"dopenR.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/dfemtoolz_openR/dopenR.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"dopenR_functions.h"
+	"dopenR_parameters.h"
+	"dopenRf.h"
+
+1592645329 /media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/open_mandible/open_mandible_classes.h
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+
+1592645373 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master-vilica-tk3/open_mandible/open_mandible_classes.cxx
+	"open_mandible_classes.h"
+
+1591629029 source:/media/ntfs/shtek/danko-data/github/open_mandible/aModule/aDataFile_Reader.cxx
+	"aDataFile_Reader.h"
+
+1592655188 /media/ntfs/shtek/danko-data/github/open_mandible/aModule/aDataFile_Reader.h
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dReading.h"
+	"aDataPoint.h"
+
+1592655171 /media/ntfs/shtek/danko-data/github/open_mandible/aModule/aDataPoint.h
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+
+1591629029 source:/media/ntfs/shtek/danko-data/github/open_mandible/aModule/aDataPoint.cxx
+	"aDataPoint.h"
+
+1593888801 source:/media/ntfs/shtek/danko-data/github/open_mandible/case5-mandible_plain_text_print_functions.cxx
+	"case5-mandible_plain_text_print_functions.h"
+
+1593888090 /media/ntfs/shtek/danko-data/github/open_mandible/case5-mandible_plain_text_print_functions.h
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"aModule/aDataPoint.h"
+	"open_mandible_parameters.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h
+	<stdlib.h>
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<algorithm>
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h
+	"../dfemtoolz_dMyLib.h"
+	<vector>
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h
+	"../dfemtoolz_dMyLib.h"
+
+1598978989 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dConstants.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"dGeom_Node.h"
+	"dGeom_Functions.h"
+
+1592231316 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dMisc/dSTL_Triangle.h"
+	"dGeom_Node.h"
+	"dGeom_Element.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dSTL_Triangle.h
+	"../dfemtoolz_dMyLib.h"
+	"../dGeom/dGeom_Node.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h
+	"../dfemtoolz_dMyLib.h"
+
+1598970460 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPrin/dInfo.h"
+	"dGeom_Node.h"
+	"dGeom_Element.h"
+	"dGeom_Functions.h"
+
+1574440825 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dConstants.h"
+	<sstream>
+	<cstdlib>
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h
+	"../dfemtoolz_dMyLib.h"
+	<time.h>
+
+1598972212 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dGeom/dGeom_Element.h"
+	"../dGeom/dGeom_Functions.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+
+1598979011 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+
+1592411177 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dConstants.h"
+	"../dBase/dCollection.h"
+	"../dGeom/dGeom_Element.h"
+	"../dGeom/dGeom_Functions.h"
+	"../dGeom/dGeom_TFunctions.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dMisc/dPercent.h"
+	"../dPrin/dInfo.h"
+	"dMesh_Neighbours.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dPercent.h
+	"../dfemtoolz_dMyLib.h"
+
+1591459981 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h
+	"../dMesh/dMesh_Node.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h
+	"../dfemtoolz_dMyLib.h"
+	<time.h>
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dGeom/dGeom_Functions.h"
+	"../dMisc/dMisc_Functionz.h"
+	<fstream>
+
+1592856263 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dSuperCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMesh/dMeshing.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPost/dPost_Node.h"
+	"../dInit/dInit_Node.h"
+	<fstream>
+	"dInfo.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dBase/dSuperCollection.h
+	"../dfemtoolz_dMyLib.h"
+	"dCollection.h"
+	<algorithm>
+	<vector>
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMeshing.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dConstants.h"
+	"../dBase/dCollection.h"
+	"../dGeom/dGeom_Element.h"
+	"../dGeom/dGeom_Functions.h"
+	"../dGeom/dGeom_TFunctions.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dMisc/dPercent.h"
+	"../dPrin/dInfo.h"
+	"dMesh_Neighbours.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dPost/dPost_Node.h
+	"../dGeom/dGeom_Node.h"
+
+1593969353 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dSuperCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMesh/dMeshing.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPost/dPost_Node.h"
+	"../dInit/dInit_Node.h"
+	<fstream>
+	<vector>
+	"dInfo.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dInit/dInit_Node.h"
+	"../dMesh/dMeshing.h"
+	"../dMesh/dMesh_Node.h"
+	"dInfo.h"
+	<fstream>
+
+1594140891 source:/media/ntfs/shtek/danko-data/github/open_mandible/open_mandible.cxx
+	"open_mandible.h"
+
+1594140129 /media/ntfs/shtek/danko-data/github/open_mandible/open_mandible.h
+	<math.h>
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dSuperCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremeshF.h"
+	"../dfemtoolz-master/dfemtoolz_openR/dopenRf.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.h"
+	"open_mandible_parameters.h"
+	"case5-mandible_plain_text_print_functions.h"
+	"open_mandible_functions.h"
+	"open_mandible_classes.h"
+	"aModule/aDataFile_Reader.h"
+	"aModule/aDataPoint.h"
+	"merg_multimaterial.h"
+	"bc_openR.h"
+	"bc_directed.h"
+	"orthrotopy.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h
+	<sys/types.h>
+	<dirent.h>
+	<vector>
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dInit/dInit_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPrin/dInfo.h"
+	"dReading.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dReading.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dError.h"
+	"../dBase/dConstants.h"
+	"../dMisc/dMisc_Functionz.h"
+	<fstream>
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dBase/dError.h
+	"../dfemtoolz_dMyLib.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dError.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dGeom/dGeom_Functions.h"
+	"../dMisc/dSTL_Triangle.h"
+	"dReading.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPrin/dInfo.h"
+	"dReading.h"
+
+1593891285 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dRead/dReading.h"
+
+1590314519 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_remesh/dremeshF.h
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"dFema/dremesh4Femap.h"
+	"dTetg/dremesh4Tetgen.h"
+	"dTetg_tetra/dremesh4Tetgen_tetra.h"
+	"dTetg/dremesh4TetgenF.h"
+	"dTetg_tetra/dremesh4Tetgen_tetraF.h"
+	"dremesh_parameters.h"
+
+1593891805 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_remesh/dFema/dremesh4Femap.h
+	"../../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz_dMyLib/dRead/dFemap_Reader.h"
+	"dremesh4FemapF.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h
+	"../dBase/dCollection.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFemap_Reader.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPrin/dInfo.h"
+	"dReading.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_remesh/dFema/dremesh4FemapF.h
+	"../../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz_dMyLib/dRead/dFemap_Reader.h"
+	"dremesh4FemapF.h"
+
+1593891940 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_remesh/dTetg/dremesh4Tetgen.h
+	"../../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz_dMyLib/dRead/dTetgen_Reader.h"
+	"dremesh4TetgenF.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dTetgen_Reader.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dError.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dMisc/dPercent.h"
+	"../dPrin/dInfo.h"
+	"dReading.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_remesh/dTetg/dremesh4TetgenF.h
+	"../../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz_dMyLib/dRead/dTetgen_Reader.h"
+
+1593891391 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_remesh/dTetg_tetra/dremesh4Tetgen_tetra.h
+	"../../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz_dMyLib/dRead/dTetgen_Reader.h"
+	"dremesh4Tetgen_tetraF.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_remesh/dTetg_tetra/dremesh4Tetgen_tetraF.h
+	"../../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz_dMyLib/dRead/dTetgen_Reader.h"
+
+1593885915 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_openR/dopenRf.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"dopenR_functions.h"
+	"dopenR_parameters.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_openR/dopenR_functions.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz_dMyLib/dInit/dInit_Node.h"
+
+1593897018 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_openR/dopenR_parameters.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dRead/dReading.h"
+
+1593957311 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"dmultimaterial_functions.h"
+	"dmultimaterial_parameters.h"
+	<string>
+
+1593957491 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz_dMyLib/dBase/dSuperCollection.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz_dMyLib/dInit/dInit_Node.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_parameters.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dRead/dReading.h"
+
+1593887752 /media/ntfs/shtek/danko-data/github/open_mandible/open_mandible_parameters.h
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dReading.h"
+	"open_mandible_classes.h"
+
+1592655112 /media/ntfs/shtek/danko-data/github/open_mandible/open_mandible_functions.h
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"open_mandible_classes.h"
+
+1593887752 /media/ntfs/shtek/danko-data/github/open_mandible/open_mandible_classes.h
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+
+1593882512 source:/media/ntfs/shtek/danko-data/github/open_mandible/open_mandible_classes.cxx
+	"open_mandible_classes.h"
+
+1592645471 source:/media/ntfs/shtek/danko-data/github/open_mandible/open_mandible_functions.cxx
+	"open_mandible_functions.h"
+
+1593888377 source:/media/ntfs/shtek/danko-data/github/open_mandible/open_mandible_parameters.cxx
+	"open_mandible_parameters.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dBase/dError.cxx
+	"dError.h"
+
+1592654048 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.cxx
+	"dGeom_Element.h"
+
+1592231476 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.cxx
+	"dGeom_Functions.h"
+
+1598978989 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.cxx
+	"dGeom_Node.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.cxx
+	"dGeom_Plane.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.cxx
+	"dInit_Node.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.cxx
+	"dMesh_Boundary_and_Loads.h"
+
+1598972275 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.cxx
+	"dMesh_Neighbours.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.cxx
+	"dMesh_Node.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMeshing.cxx
+	"dMeshing.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.cxx
+	"dDirectory_Miner.h"
+
+1568109439 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.cxx
+	"dMisc_Functionz.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dPercent.cxx
+	"dPercent.h"
+	"dPercent.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dRandom_Number_Generator.cxx
+	"dRandom_Number_Generator.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dRandom_Number_Generator.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dConstants.h"
+	<time.h>
+	<sstream>
+	<cstdlib>
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dSTL_Triangle.cxx
+	"dSTL_Triangle.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.cxx
+	"dTimer.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dPost/dPost_Node.cxx
+	"dPost_Node.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.cxx
+	"dInfo.h"
+
+1592851683 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.cxx
+	"dPOS_Printer.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.cxx
+	"dPrinting.h"
+
+1590882611 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.cxx
+	"dSLI_Printer.h"
+
+1593969544 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.cxx
+	"dVTK_Printer.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dWRL_Printer.cxx
+	"dWRL_Printer.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dWRL_Printer.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dMisc/dSTL_Triangle.h"
+	<fstream>
+	"dInfo.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.cxx
+	"dFAL_Reader.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFemap_Reader.cxx
+	"dFemap_Reader.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dReading.cxx
+	"dReading.h"
+
+1587901563 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.cxx
+	"dSLI_Reader.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.cxx
+	"dSTL_Reader.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dTetgen_Reader.cxx
+	"dTetgen_Reader.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dUNV_Reader.cxx
+	"dUNV_Reader.h"
+
+1534438346 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dUNV_Reader.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dError.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dPost/dPost_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPrin/dInfo.h"
+	"dReading.h"
+
+1593957490 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.cxx
+	"dmultimaterial_functions.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_parameters.cxx
+	"dmultimaterial_parameters.h"
+
+1593957311 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.cxx
+	"dmultimaterialF.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_openR/dopenR_functions.cxx
+	"dopenR_functions.h"
+
+1593897018 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_openR/dopenR_parameters.cxx
+	"dopenR_parameters.h"
+
+1594816611 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_openR/dopenRf.cxx
+	"dopenR.h"
+
+1593897073 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_openR/dopenR.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"dopenR_functions.h"
+	"dopenR_parameters.h"
+	"dopenRf.h"
+
+1593894063 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_remesh/dFema/dremesh4Femap.cxx
+	"dremesh4Femap.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_remesh/dFema/dremesh4FemapF.cxx
+	"dremesh4FemapF.h"
+
+1593891285 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.cxx
+	"dremesh_parameters.h"
+
+1590315401 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_remesh/dremeshF.cxx
+	"dremeshF.h"
+
+1593894076 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_remesh/dTetg/dremesh4Tetgen.cxx
+	"dremesh4Tetgen.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_remesh/dTetg/dremesh4TetgenF.cxx
+	"dremesh4TetgenF.h"
+
+1593891714 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_remesh/dTetg_tetra/dremesh4Tetgen_tetra.cxx
+	"dremesh4Tetgen_tetra.h"
+
+1534438346 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_remesh/dTetg_tetra/dremesh4Tetgen_tetraF.cxx
+	"dremesh4Tetgen_tetraF.h"
+
+1591629029 source:/media/ntfs/shtek/github-test/open_mandible/aModule/aDataFile_Reader.cxx
+	"aDataFile_Reader.h"
+
+1592655188 /media/ntfs/shtek/github-test/open_mandible/aModule/aDataFile_Reader.h
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dReading.h"
+	"aDataPoint.h"
+
+1592655171 /media/ntfs/shtek/github-test/open_mandible/aModule/aDataPoint.h
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+
+1591629029 source:/media/ntfs/shtek/github-test/open_mandible/aModule/aDataPoint.cxx
+	"aDataPoint.h"
+
+1593883147 source:/media/ntfs/shtek/github-test/open_mandible/case5-mandible_plain_text_print_functions.cxx
+	"case5-mandible_plain_text_print_functions.h"
+
+1593883147 /media/ntfs/shtek/github-test/open_mandible/case5-mandible_plain_text_print_functions.h
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"aModule/aDataPoint.h"
+
+1593884996 source:/media/ntfs/shtek/github-test/open_mandible/open_mandible.cxx
+	"open_mandible.h"
+
+1592655071 /media/ntfs/shtek/github-test/open_mandible/open_mandible.h
+	<math.h>
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremeshF.h"
+	"../dfemtoolz-master/dfemtoolz_openR/dopenRf.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.h"
+	"open_mandible_parameters.h"
+	"case5-mandible_plain_text_print_functions.h"
+	"open_mandible_functions.h"
+	"open_mandible_classes.h"
+	"aModule/aDataFile_Reader.h"
+	"aModule/aDataPoint.h"
+
+1592856873 /media/ntfs/shtek/github-test/open_mandible/open_mandible_parameters.h
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dReading.h"
+
+1592655112 /media/ntfs/shtek/github-test/open_mandible/open_mandible_functions.h
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"open_mandible_classes.h"
+
+1593882512 /media/ntfs/shtek/github-test/open_mandible/open_mandible_classes.h
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+
+1593882512 source:/media/ntfs/shtek/github-test/open_mandible/open_mandible_classes.cxx
+	"open_mandible_classes.h"
+
+1592645471 source:/media/ntfs/shtek/github-test/open_mandible/open_mandible_functions.cxx
+	"open_mandible_functions.h"
+
+1592856894 source:/media/ntfs/shtek/github-test/open_mandible/open_mandible_parameters.cxx
+	"open_mandible_parameters.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dBase/dError.cxx
+	"dError.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dBase/dError.h
+	"../dfemtoolz_dMyLib.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h
+	<stdlib.h>
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<algorithm>
+
+1592654048 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.cxx
+	"dGeom_Element.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h
+	"../dfemtoolz_dMyLib.h"
+
+1592231476 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.cxx
+	"dGeom_Functions.h"
+
+1592231316 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dMisc/dSTL_Triangle.h"
+	"dGeom_Node.h"
+	"dGeom_Element.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h
+	"../dfemtoolz_dMyLib.h"
+	<vector>
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h
+	"../dfemtoolz_dMyLib.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dSTL_Triangle.h
+	"../dfemtoolz_dMyLib.h"
+	"../dGeom/dGeom_Node.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dConstants.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.cxx
+	"dGeom_Node.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.cxx
+	"dGeom_Plane.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"dGeom_Node.h"
+	"dGeom_Functions.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.cxx
+	"dInit_Node.h"
+
+1591459981 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h
+	"../dMesh/dMesh_Node.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.cxx
+	"dMesh_Boundary_and_Loads.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h
+	"../dBase/dCollection.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.cxx
+	"dMesh_Neighbours.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dGeom/dGeom_Element.h"
+	"../dGeom/dGeom_Functions.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+
+1574440825 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dConstants.h"
+	<sstream>
+	<cstdlib>
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.cxx
+	"dMesh_Node.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMeshing.cxx
+	"dMeshing.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMeshing.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dConstants.h"
+	"../dBase/dCollection.h"
+	"../dGeom/dGeom_Element.h"
+	"../dGeom/dGeom_Functions.h"
+	"../dGeom/dGeom_TFunctions.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dMisc/dPercent.h"
+	"../dPrin/dInfo.h"
+	"dMesh_Neighbours.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPrin/dInfo.h"
+	"dGeom_Node.h"
+	"dGeom_Element.h"
+	"dGeom_Functions.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h
+	"../dfemtoolz_dMyLib.h"
+	<time.h>
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dPercent.h
+	"../dfemtoolz_dMyLib.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.cxx
+	"dDirectory_Miner.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h
+	<sys/types.h>
+	<dirent.h>
+	<vector>
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+
+1568109439 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.cxx
+	"dMisc_Functionz.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dPercent.cxx
+	"dPercent.h"
+	"dPercent.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dRandom_Number_Generator.cxx
+	"dRandom_Number_Generator.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dRandom_Number_Generator.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dConstants.h"
+	<time.h>
+	<sstream>
+	<cstdlib>
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dSTL_Triangle.cxx
+	"dSTL_Triangle.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.cxx
+	"dTimer.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h
+	"../dfemtoolz_dMyLib.h"
+	<time.h>
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dPost/dPost_Node.cxx
+	"dPost_Node.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dPost/dPost_Node.h
+	"../dGeom/dGeom_Node.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.cxx
+	"dInfo.h"
+
+1592851683 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.cxx
+	"dPOS_Printer.h"
+
+1592856263 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dSuperCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMesh/dMeshing.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPost/dPost_Node.h"
+	"../dInit/dInit_Node.h"
+	<fstream>
+	"dInfo.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dBase/dSuperCollection.h
+	"../dfemtoolz_dMyLib.h"
+	"dCollection.h"
+	<algorithm>
+	<vector>
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.cxx
+	"dPrinting.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dGeom/dGeom_Functions.h"
+	"../dMisc/dMisc_Functionz.h"
+	<fstream>
+
+1590882611 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.cxx
+	"dSLI_Printer.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dInit/dInit_Node.h"
+	"../dMesh/dMeshing.h"
+	"../dMesh/dMesh_Node.h"
+	"dInfo.h"
+	<fstream>
+
+1590320676 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.cxx
+	"dVTK_Printer.h"
+
+1588622598 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dSuperCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMesh/dMeshing.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPost/dPost_Node.h"
+	"../dInit/dInit_Node.h"
+	<fstream>
+	"dInfo.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dWRL_Printer.cxx
+	"dWRL_Printer.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dWRL_Printer.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dMisc/dSTL_Triangle.h"
+	<fstream>
+	"dInfo.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.cxx
+	"dFAL_Reader.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPrin/dInfo.h"
+	"dReading.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dReading.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dError.h"
+	"../dBase/dConstants.h"
+	"../dMisc/dMisc_Functionz.h"
+	<fstream>
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFemap_Reader.cxx
+	"dFemap_Reader.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFemap_Reader.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPrin/dInfo.h"
+	"dReading.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dReading.cxx
+	"dReading.h"
+
+1587901563 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.cxx
+	"dSLI_Reader.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dInit/dInit_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPrin/dInfo.h"
+	"dReading.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.cxx
+	"dSTL_Reader.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dError.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dGeom/dGeom_Functions.h"
+	"../dMisc/dSTL_Triangle.h"
+	"dReading.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dTetgen_Reader.cxx
+	"dTetgen_Reader.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dTetgen_Reader.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dError.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dMisc/dPercent.h"
+	"../dPrin/dInfo.h"
+	"dReading.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dUNV_Reader.cxx
+	"dUNV_Reader.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dRead/dUNV_Reader.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dError.h"
+	"../dBase/dCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dPost/dPost_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPrin/dInfo.h"
+	"dReading.h"
+
+1591651705 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.cxx
+	"dmultimaterial_functions.h"
+
+1591651536 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz_dMyLib/dBase/dSuperCollection.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz_dMyLib/dInit/dInit_Node.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_parameters.cxx
+	"dmultimaterial_parameters.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_parameters.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dRead/dReading.h"
+
+1591706271 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.cxx
+	"dmultimaterialF.h"
+
+1591704228 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"dmultimaterial_functions.h"
+	"dmultimaterial_parameters.h"
+	<string>
+
+1592411177 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dConstants.h"
+	"../dBase/dCollection.h"
+	"../dGeom/dGeom_Element.h"
+	"../dGeom/dGeom_Functions.h"
+	"../dGeom/dGeom_TFunctions.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dMisc/dPercent.h"
+	"../dPrin/dInfo.h"
+	"dMesh_Neighbours.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_openR/dopenR_functions.cxx
+	"dopenR_functions.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_openR/dopenR_functions.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz_dMyLib/dInit/dInit_Node.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_openR/dopenR_parameters.cxx
+	"dopenR_parameters.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_openR/dopenR_parameters.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dRead/dReading.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_remesh/dFema/dremesh4Femap.cxx
+	"dremesh4Femap.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_remesh/dFema/dremesh4Femap.h
+	"../../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz_dMyLib/dRead/dFemap_Reader.h"
+	"dremesh4FemapF.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_remesh/dFema/dremesh4FemapF.h
+	"../../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz_dMyLib/dRead/dFemap_Reader.h"
+	"dremesh4FemapF.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_remesh/dFema/dremesh4FemapF.cxx
+	"dremesh4FemapF.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.cxx
+	"dremesh_parameters.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dRead/dReading.h"
+
+1590315401 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_remesh/dremeshF.cxx
+	"dremeshF.h"
+
+1590314519 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_remesh/dremeshF.h
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"dFema/dremesh4Femap.h"
+	"dTetg/dremesh4Tetgen.h"
+	"dTetg_tetra/dremesh4Tetgen_tetra.h"
+	"dTetg/dremesh4TetgenF.h"
+	"dTetg_tetra/dremesh4Tetgen_tetraF.h"
+	"dremesh_parameters.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_remesh/dTetg/dremesh4Tetgen.h
+	"../../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz_dMyLib/dRead/dTetgen_Reader.h"
+	"dremesh4TetgenF.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_remesh/dTetg/dremesh4TetgenF.h
+	"../../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz_dMyLib/dRead/dTetgen_Reader.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_remesh/dTetg_tetra/dremesh4Tetgen_tetra.h
+	"../../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz_dMyLib/dRead/dTetgen_Reader.h"
+	"dremesh4Tetgen_tetraF.h"
+
+1534438346 /media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_remesh/dTetg_tetra/dremesh4Tetgen_tetraF.h
+	"../../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMeshing.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz_dMyLib/dRead/dTetgen_Reader.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_remesh/dTetg/dremesh4Tetgen.cxx
+	"dremesh4Tetgen.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_remesh/dTetg/dremesh4TetgenF.cxx
+	"dremesh4TetgenF.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_remesh/dTetg_tetra/dremesh4Tetgen_tetra.cxx
+	"dremesh4Tetgen_tetra.h"
+
+1534438346 source:/media/ntfs/shtek/github-test/dfemtoolz-master/dfemtoolz_remesh/dTetg_tetra/dremesh4Tetgen_tetraF.cxx
+	"dremesh4Tetgen_tetraF.h"
+
+1594134589 /media/ntfs/shtek/danko-data/github/open_mandible/bc_directed.h
+	<math.h>
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dSuperCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremeshF.h"
+	"../dfemtoolz-master/dfemtoolz_openR/dopenRf.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.h"
+	"open_mandible_parameters.h"
+	"case5-mandible_plain_text_print_functions.h"
+	"open_mandible_functions.h"
+	"open_mandible_classes.h"
+	"aModule/aDataFile_Reader.h"
+	"aModule/aDataPoint.h"
+
+1594140582 source:/media/ntfs/shtek/danko-data/github/open_mandible/bc_directed.cxx
+	"bc_directed.h"
+
+1594140889 source:/media/ntfs/shtek/danko-data/github/open_mandible/orthrotopy.cxx
+	"bc_directed.h"
+
+1594136207 /media/ntfs/shtek/danko-data/github/open_mandible/orthrotopy.h
+	<math.h>
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dSuperCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremeshF.h"
+	"../dfemtoolz-master/dfemtoolz_openR/dopenRf.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.h"
+	"open_mandible_parameters.h"
+	"case5-mandible_plain_text_print_functions.h"
+	"open_mandible_functions.h"
+	"open_mandible_classes.h"
+	"aModule/aDataFile_Reader.h"
+	"aModule/aDataPoint.h"
+
+1594140435 source:/media/ntfs/shtek/danko-data/github/open_mandible/bc_openR.cxx
+	"bc_openR.h"
+
+1594139067 /media/ntfs/shtek/danko-data/github/open_mandible/bc_openR.h
+	<math.h>
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dSuperCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremeshF.h"
+	"../dfemtoolz-master/dfemtoolz_openR/dopenRf.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.h"
+	"open_mandible_parameters.h"
+	"case5-mandible_plain_text_print_functions.h"
+	"open_mandible_functions.h"
+	"open_mandible_classes.h"
+	"aModule/aDataFile_Reader.h"
+	"aModule/aDataPoint.h"
+
+1594140412 source:/media/ntfs/shtek/danko-data/github/open_mandible/merg_multimaterial.cxx
+	"merg_multimaterial.h"
+
+1594140096 /media/ntfs/shtek/danko-data/github/open_mandible/merg_multimaterial.h
+	<math.h>
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dSuperCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremeshF.h"
+	"../dfemtoolz-master/dfemtoolz_openR/dopenRf.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.h"
+	"open_mandible_parameters.h"
+	"case5-mandible_plain_text_print_functions.h"
+	"open_mandible_functions.h"
+	"open_mandible_classes.h"
+	"aModule/aDataFile_Reader.h"
+	"aModule/aDataPoint.h"
+
+1591629029 source:/media/ntfs/shtek/danko-data/github/open_mandible_base_model/aModule/aDataFile_Reader.cxx
+	"aDataFile_Reader.h"
+
+1592655188 /media/ntfs/shtek/danko-data/github/open_mandible_base_model/aModule/aDataFile_Reader.h
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dReading.h"
+	"aDataPoint.h"
+
+1592655171 /media/ntfs/shtek/danko-data/github/open_mandible_base_model/aModule/aDataPoint.h
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+
+1591629029 source:/media/ntfs/shtek/danko-data/github/open_mandible_base_model/aModule/aDataPoint.cxx
+	"aDataPoint.h"
+
+1594751233 source:/media/ntfs/shtek/danko-data/github/open_mandible_base_model/bc_directed.cxx
+	"bc_directed.h"
+
+1594134589 /media/ntfs/shtek/danko-data/github/open_mandible_base_model/bc_directed.h
+	<math.h>
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dSuperCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremeshF.h"
+	"../dfemtoolz-master/dfemtoolz_openR/dopenRf.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.h"
+	"open_mandible_parameters.h"
+	"case5-mandible_plain_text_print_functions.h"
+	"open_mandible_functions.h"
+	"open_mandible_classes.h"
+	"aModule/aDataFile_Reader.h"
+	"aModule/aDataPoint.h"
+
+1593887752 /media/ntfs/shtek/danko-data/github/open_mandible_base_model/open_mandible_parameters.h
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dReading.h"
+	"open_mandible_classes.h"
+
+1593887752 /media/ntfs/shtek/danko-data/github/open_mandible_base_model/open_mandible_classes.h
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+
+1594218433 /media/ntfs/shtek/danko-data/github/open_mandible_base_model/case5-mandible_plain_text_print_functions.h
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"aModule/aDataPoint.h"
+	"open_mandible_parameters.h"
+
+1592655112 /media/ntfs/shtek/danko-data/github/open_mandible_base_model/open_mandible_functions.h
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"open_mandible_classes.h"
+
+1594140435 source:/media/ntfs/shtek/danko-data/github/open_mandible_base_model/bc_openR.cxx
+	"bc_openR.h"
+
+1594139067 /media/ntfs/shtek/danko-data/github/open_mandible_base_model/bc_openR.h
+	<math.h>
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dSuperCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremeshF.h"
+	"../dfemtoolz-master/dfemtoolz_openR/dopenRf.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.h"
+	"open_mandible_parameters.h"
+	"case5-mandible_plain_text_print_functions.h"
+	"open_mandible_functions.h"
+	"open_mandible_classes.h"
+	"aModule/aDataFile_Reader.h"
+	"aModule/aDataPoint.h"
+
+1594750023 source:/media/ntfs/shtek/danko-data/github/open_mandible_base_model/case5-mandible_plain_text_print_functions.cxx
+	"case5-mandible_plain_text_print_functions.h"
+
+1594140412 source:/media/ntfs/shtek/danko-data/github/open_mandible_base_model/merg_multimaterial.cxx
+	"merg_multimaterial.h"
+
+1594140096 /media/ntfs/shtek/danko-data/github/open_mandible_base_model/merg_multimaterial.h
+	<math.h>
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dSuperCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremeshF.h"
+	"../dfemtoolz-master/dfemtoolz_openR/dopenRf.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.h"
+	"open_mandible_parameters.h"
+	"case5-mandible_plain_text_print_functions.h"
+	"open_mandible_functions.h"
+	"open_mandible_classes.h"
+	"aModule/aDataFile_Reader.h"
+	"aModule/aDataPoint.h"
+
+1594297544 source:/media/ntfs/shtek/danko-data/github/open_mandible_base_model/open_mandible.cxx
+	"open_mandible.h"
+
+1594297032 /media/ntfs/shtek/danko-data/github/open_mandible_base_model/open_mandible.h
+	<math.h>
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dSuperCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremeshF.h"
+	"../dfemtoolz-master/dfemtoolz_openR/dopenRf.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.h"
+	"open_mandible_parameters.h"
+	"case5-mandible_plain_text_print_functions.h"
+	"open_mandible_functions.h"
+	"open_mandible_classes.h"
+	"aModule/aDataFile_Reader.h"
+	"aModule/aDataPoint.h"
+	"merg_multimaterial.h"
+	"bc_openR.h"
+	"bc_directed.h"
+	"orthotropy.h"
+
+1594136207 /media/ntfs/shtek/danko-data/github/open_mandible_base_model/orthrotopy.h
+	<math.h>
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dSuperCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremeshF.h"
+	"../dfemtoolz-master/dfemtoolz_openR/dopenRf.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.h"
+	"open_mandible_parameters.h"
+	"case5-mandible_plain_text_print_functions.h"
+	"open_mandible_functions.h"
+	"open_mandible_classes.h"
+	"aModule/aDataFile_Reader.h"
+	"aModule/aDataPoint.h"
+
+1593882512 source:/media/ntfs/shtek/danko-data/github/open_mandible_base_model/open_mandible_classes.cxx
+	"open_mandible_classes.h"
+
+1592645471 source:/media/ntfs/shtek/danko-data/github/open_mandible_base_model/open_mandible_functions.cxx
+	"open_mandible_functions.h"
+
+1593888377 source:/media/ntfs/shtek/danko-data/github/open_mandible_base_model/open_mandible_parameters.cxx
+	"open_mandible_parameters.h"
+
+1594140889 source:/media/ntfs/shtek/danko-data/github/open_mandible_base_model/orthrotopy.cxx
+	"bc_directed.h"
+
+1594296989 source:/media/ntfs/shtek/danko-data/github/open_mandible_base_model/orthotropy.cxx
+	"bc_directed.h"
+
+1594296989 /media/ntfs/shtek/danko-data/github/open_mandible_base_model/orthotropy.h
+	<math.h>
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dSuperCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremeshF.h"
+	"../dfemtoolz-master/dfemtoolz_openR/dopenRf.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.h"
+	"open_mandible_parameters.h"
+	"case5-mandible_plain_text_print_functions.h"
+	"open_mandible_functions.h"
+	"open_mandible_classes.h"
+	"aModule/aDataFile_Reader.h"
+	"aModule/aDataPoint.h"
+
+1591629029 source:/media/ntfs/shtek/danko-data/github/open_mandible_cut_model/aModule/aDataFile_Reader.cxx
+	"aDataFile_Reader.h"
+
+1592655188 /media/ntfs/shtek/danko-data/github/open_mandible_cut_model/aModule/aDataFile_Reader.h
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dReading.h"
+	"aDataPoint.h"
+
+1592655171 /media/ntfs/shtek/danko-data/github/open_mandible_cut_model/aModule/aDataPoint.h
+	"../../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+
+1591629029 source:/media/ntfs/shtek/danko-data/github/open_mandible_cut_model/aModule/aDataPoint.cxx
+	"aDataPoint.h"
+
+1594752855 source:/media/ntfs/shtek/danko-data/github/open_mandible_cut_model/bc_directed.cxx
+	"bc_directed.h"
+
+1594134589 /media/ntfs/shtek/danko-data/github/open_mandible_cut_model/bc_directed.h
+	<math.h>
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dSuperCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremeshF.h"
+	"../dfemtoolz-master/dfemtoolz_openR/dopenRf.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.h"
+	"open_mandible_parameters.h"
+	"case5-mandible_plain_text_print_functions.h"
+	"open_mandible_functions.h"
+	"open_mandible_classes.h"
+	"aModule/aDataFile_Reader.h"
+	"aModule/aDataPoint.h"
+
+1593887752 /media/ntfs/shtek/danko-data/github/open_mandible_cut_model/open_mandible_parameters.h
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dReading.h"
+	"open_mandible_classes.h"
+
+1593887752 /media/ntfs/shtek/danko-data/github/open_mandible_cut_model/open_mandible_classes.h
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+
+1594218433 /media/ntfs/shtek/danko-data/github/open_mandible_cut_model/case5-mandible_plain_text_print_functions.h
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"aModule/aDataPoint.h"
+	"open_mandible_parameters.h"
+
+1592655112 /media/ntfs/shtek/danko-data/github/open_mandible_cut_model/open_mandible_functions.h
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"open_mandible_classes.h"
+
+1594140435 source:/media/ntfs/shtek/danko-data/github/open_mandible_cut_model/bc_openR.cxx
+	"bc_openR.h"
+
+1594139067 /media/ntfs/shtek/danko-data/github/open_mandible_cut_model/bc_openR.h
+	<math.h>
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dSuperCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremeshF.h"
+	"../dfemtoolz-master/dfemtoolz_openR/dopenRf.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.h"
+	"open_mandible_parameters.h"
+	"case5-mandible_plain_text_print_functions.h"
+	"open_mandible_functions.h"
+	"open_mandible_classes.h"
+	"aModule/aDataFile_Reader.h"
+	"aModule/aDataPoint.h"
+
+1594750023 source:/media/ntfs/shtek/danko-data/github/open_mandible_cut_model/case5-mandible_plain_text_print_functions.cxx
+	"case5-mandible_plain_text_print_functions.h"
+
+1594140412 source:/media/ntfs/shtek/danko-data/github/open_mandible_cut_model/merg_multimaterial.cxx
+	"merg_multimaterial.h"
+
+1594140096 /media/ntfs/shtek/danko-data/github/open_mandible_cut_model/merg_multimaterial.h
+	<math.h>
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dSuperCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremeshF.h"
+	"../dfemtoolz-master/dfemtoolz_openR/dopenRf.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.h"
+	"open_mandible_parameters.h"
+	"case5-mandible_plain_text_print_functions.h"
+	"open_mandible_functions.h"
+	"open_mandible_classes.h"
+	"aModule/aDataFile_Reader.h"
+	"aModule/aDataPoint.h"
+
+1599063982 source:/media/ntfs/shtek/danko-data/github/open_mandible_cut_model/open_mandible.cxx
+	"open_mandible.h"
+
+1599037526 /media/ntfs/shtek/danko-data/github/open_mandible_cut_model/open_mandible.h
+	<math.h>
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dSuperCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSTL_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremeshF.h"
+	"../dfemtoolz-master/dfemtoolz_openR/dopenRf.h"
+	"../dfemtoolz-master/dfemtoolz_nolimit/dnolimitF.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.h"
+	"open_mandible_parameters.h"
+	"case5-mandible_plain_text_print_functions.h"
+	"open_mandible_functions.h"
+	"open_mandible_classes.h"
+	"aModule/aDataFile_Reader.h"
+	"aModule/aDataPoint.h"
+	"merg_multimaterial.h"
+	"bc_openR.h"
+	"bc_directed.h"
+	"orthotropy.h"
+
+1594296989 /media/ntfs/shtek/danko-data/github/open_mandible_cut_model/orthotropy.h
+	<math.h>
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dSuperCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Plane.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dTMeshing.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dInit/dInit_Node.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dMisc/dDirectory_Miner.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dSTL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_dMyLib/dRead/dFAL_Reader.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremesh_parameters.h"
+	"../dfemtoolz-master/dfemtoolz_remesh/dremeshF.h"
+	"../dfemtoolz-master/dfemtoolz_openR/dopenRf.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterialF.h"
+	"../dfemtoolz-master/dfemtoolz_multimaterial/dmultimaterial_functions.h"
+	"open_mandible_parameters.h"
+	"case5-mandible_plain_text_print_functions.h"
+	"open_mandible_functions.h"
+	"open_mandible_classes.h"
+	"aModule/aDataFile_Reader.h"
+	"aModule/aDataPoint.h"
+
+1593882512 source:/media/ntfs/shtek/danko-data/github/open_mandible_cut_model/open_mandible_classes.cxx
+	"open_mandible_classes.h"
+
+1592645471 source:/media/ntfs/shtek/danko-data/github/open_mandible_cut_model/open_mandible_functions.cxx
+	"open_mandible_functions.h"
+
+1593888377 source:/media/ntfs/shtek/danko-data/github/open_mandible_cut_model/open_mandible_parameters.cxx
+	"open_mandible_parameters.h"
+
+1598992410 source:/media/ntfs/shtek/danko-data/github/open_mandible_cut_model/orthotropy.cxx
+	"bc_directed.h"
+
+1598981612 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSTL_Printer.cxx
+	"dSTL_Printer.h"
+
+1598980256 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_dMyLib/dPrin/dSTL_Printer.h
+	"../dfemtoolz_dMyLib.h"
+	"../dBase/dCollection.h"
+	"../dBase/dSuperCollection.h"
+	"../dBase/dConstants.h"
+	"../dGeom/dGeom_Node.h"
+	"../dGeom/dGeom_Element.h"
+	"../dMesh/dMesh_Node.h"
+	"../dMesh/dMeshing.h"
+	"../dMisc/dMisc_Functionz.h"
+	"../dPost/dPost_Node.h"
+	"../dInit/dInit_Node.h"
+	<fstream>
+	"dInfo.h"
+
+1598980295 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_nolimit/dnolimit.cxx
+	"dnolimit.h"
+
+1598978125 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_nolimit/dnolimit.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dVTK_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dSTL_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"dnolimit_parameters.h"
+	"dnolimitF.h"
+
+1593892300 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_nolimit/dnolimit_parameters.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dRead/dReading.h"
+
+1598972603 /media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_nolimit/dnolimitF.h
+	"../dfemtoolz_dMyLib/dfemtoolz_dMyLib.h"
+	"../dfemtoolz_dMyLib/dBase/dCollection.h"
+	"../dfemtoolz_dMyLib/dBase/dConstants.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Element.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_Functions.h"
+	"../dfemtoolz_dMyLib/dGeom/dGeom_TFunctions.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Neighbours.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Boundary_and_Loads.h"
+	"../dfemtoolz_dMyLib/dMesh/dMesh_Node.h"
+	"../dfemtoolz_dMyLib/dMisc/dTimer.h"
+	"../dfemtoolz_dMyLib/dMisc/dMisc_Functionz.h"
+	"../dfemtoolz_dMyLib/dPrin/dPrinting.h"
+	"../dfemtoolz_dMyLib/dPrin/dPOS_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dSLI_Printer.h"
+	"../dfemtoolz_dMyLib/dPrin/dInfo.h"
+	"../dfemtoolz_dMyLib/dRead/dSLI_Reader.h"
+	"dnolimit_parameters.h"
+
+1593892300 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_nolimit/dnolimit_parameters.cxx
+	"dnolimit_parameters.h"
+
+1599056215 source:/media/ntfs/shtek/danko-data/github/dfemtoolz-master/dfemtoolz_nolimit/dnolimitF.cxx
+	"dnolimitF.h"
+
