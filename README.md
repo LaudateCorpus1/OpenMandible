@@ -1,5 +1,5 @@
 
-This repository is supplement to the study (under review):
+This repository is supplement to the study (https://doi.org/10.1016/j.dental.2021.01.009):
 
 # OpenMandible: An open-source framework for highly realistic numerical modelling of lower mandible physiology 
 
